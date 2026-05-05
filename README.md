@@ -1,18 +1,15 @@
 # Cloud Infrastructure Templates
 
-This repository contains infrastructure as code templates for cloud deployments.
+ This repository contains infrastructure as code templates for cloud deployments.
 
- ## Getting Started
+  ## Getting Started
 
-  Instructions for using these templates will be added soon.
-  # Cloud Infrastructure Templates
+   Instructions for using these templates will be added soon.
 
-   This repository contains infrastructure as code templates for cloud deployments.
+    ## Network Configuration
 
-    ## Getting Started
+     The `network-setup.tf` file contains Terraform configuration for setting up a virtual network in Azure.
 
-     Instructions for using these templates will be added soon.
+      ## Storage Configuration
 
-      ## Network Configuration
-
-       The `network-setup.tf` file contains Terraform configuration for setting up a virtual network in Azure.
+       The repository will include templates for setting up cloud storage resources.
